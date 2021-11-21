@@ -6,7 +6,6 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn.model_selection import train_test_split
 import pandas as pd
-import seaborn as seabornInstance 
 import numpy as np
 import matplotlib
 matplotlib.use('TkAgg')
