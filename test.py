@@ -22,7 +22,7 @@ st.sidebar.title("🛈 About")
 st.sidebar.info('Created and maintained by:'+'\r'+'[Eleni Giakoumi](eg.giakoumi@edu.cut.ac.cy)'+'[ Andreas Othonos](am.othonos@edu.cut.ac.cy)'+'[ Andriani Petrou](ae.petrou@edu.cut.ac.cy)')
 
 
-
+st.image("image1.jpeg")
 # add title
 st.title('CEI 523 Assignment 2021 📈')
 st.info('Case study for our given data for predictive maintenance')
